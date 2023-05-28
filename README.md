@@ -15,7 +15,9 @@ Como ficou a organização do projeto:
 - Infraestrutura: contendo migrations e fazendo o mapeamento dos objetos para o banco de dados;
 - Tests: realizados em todas as partes do código garantindo a sua funcionalidade;
 
-![image](https://github.com/VrMagal/TodoApp-server/assets/117487070/67f38646-3643-4520-8ed2-5b7fb30fa622)
+<p align="center">
+  <img src="https://github.com/VrMagal/TodoApp-server/assets/117487070/67f38646-3643-4520-8ed2-5b7fb30fa622">
+</p>
 
 Na minha opinião esse projeto eleva o nível na elaboração de software,
 não somente cria-se uma solução, mas existe todo um pensamento na organização 
