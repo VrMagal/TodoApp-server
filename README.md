@@ -11,7 +11,7 @@ Principais conceitos colocados em prática:
 
 Como ficou a organização do projeto:
 - Domain: utilizando commands, handlers e queries facilitando a criação de testes;
-- Api: controlers simples e diretos com gerenciamento de dependências; 
+- Api: controllers simples e diretos com gerenciamento de dependências; 
 - Infraestrutura: contendo migrations e fazendo o mapeamento dos objetos para o banco de dados;
 - Tests: realizados em todas as partes do código garantindo a sua funcionalidade;
 
