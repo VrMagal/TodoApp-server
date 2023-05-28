@@ -5,7 +5,7 @@ Api do aplicativo TodoApp de gerenciamento de tarefas. Criado juntamente com Bal
 Principais conceitos colocados em prática:
 - TDD: metodologia para desenvolvimento e escrita do código orientado por testes;
 - Design by contract: método que estabele relações contratuais entre o sistema, gerando mais confiabilidade no código e reduzindo bugs;
-- Domain Notification: notificação sobre os acontecimentos do domínio evitando a lançar exceções;
+- Domain Notification: notificação sobre os acontecimentos do domínio evitando lançar exceções;
 - SOLID: princípios de programação orientada a objetos que facilitam o desenvolvimento de software;
 - Clean Code: boas práticas para elaborar um código de simples entendimento e escalável.
 
