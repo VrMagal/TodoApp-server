@@ -16,7 +16,7 @@ Como ficou a organização do projeto:
 - Tests: realizados em todas as partes do código garantindo a sua funcionalidade;
 
 <p align="center">
-  <img src="https://github.com/VrMagal/TodoApp-server/assets/117487070/67f38646-3643-4520-8ed2-5b7fb30fa622">
+  <img src="https://github.com/VrMagal/TodoApp-server/assets/117487070/73bca1b5-45cd-4b58-a2ea-a359669b8f5b">
 </p>
 
 Na minha opinião esse projeto eleva o nível na elaboração de software,
