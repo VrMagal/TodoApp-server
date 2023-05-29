@@ -21,5 +21,5 @@ Como ficou a organização do projeto:
 
 Na minha opinião esse projeto eleva o nível na elaboração de software,
 não somente cria-se uma solução, mas existe todo um pensamento na organização 
-da estrutura de código baseado em diversos conceitos já estabelecidos que tornam o projeto extramamente profissional. Recomendo fortemente que façam o curso: https://balta.io/cursos "Criando um TodoApp com ASP.NET Core, Firebase, Angular e Flutter".
+da estrutura de código baseado em diversos conceitos já estabelecidos que tornam o projeto extremamente profissional. Recomendo fortemente que façam o curso: https://balta.io/cursos "Criando um TodoApp com ASP.NET Core, Firebase, Angular e Flutter".
 
